@@ -1,4 +1,4 @@
-##¡Hola! 👋 Soy Matías
+## ¡Hola! 👋 Soy Matías
 
 🎓 Estudiante de Analista de Sistemas en la Escuela de Arte Multimedial Da Vinci.
 📍 Buenos Aires, Argentina.
